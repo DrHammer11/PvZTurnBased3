@@ -10,7 +10,7 @@ wc.style.width = window.innerWidth.toString()+"px";
 wc.style.height = (window.innerWidth/(1440/732)).toString()+"px";
 News = "Greetings Beta Testers! Version 1.3.0 is out now!<br><br> \
     New Features:<br>A menu<br>New zombie - the Gargantuar<br>Remaining seeds from seed spit will now hit the zombie behind the zombie they vanquished<br>there are now visual changes for when a zombie is gooped or chomper is frozen<br>Armor Chomper can now use two attacks per turn<br>Levels are now called Waves<br>Swag Zombie has been renamed to Gangsta Zombie<br><br> \
-    Bug Fixes:<br>Gangsta Zombie now more properly aligned on tile<br>Ability window has been moved to the bottom of the screen to prevent window from blocking view<br>Console now displays how many shots have missed for multi shot attacks<br><br>\
+    Bug Fixes:<br>Gangsta Zombie now more properly aligned on tile<br>Ability window has been moved to the bottom of the screen to prevent window from blocking view<br>Console now displays how many shots have missed for multi shot attacks<br>Zombies will now not move two spaces after being caught behind another zombie<br><br>\
     Balance Changes:<br>Gangsta Zombie’s melee attack is now called “Fist Fight” and does 30 damage with no cooldown<br> \
     Gangsta Zombie’s gun accuracy increased from 55% to 60%<br> \
     Gangsta Zombie’s gun now takes one turn to reload<br> \
