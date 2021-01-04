@@ -37,7 +37,7 @@ function LoadInstructions() {
     }
     Message.appendChild(CloseButton);
     TrollFace = document.createElement("img");
-    TrollFace.src = "instructions.png"
+    TrollFace.src = "instructions.PNG"
     TrollFace.style.width = "100%";
     TrollFace.style.height = "auto";
     Message.appendChild(TrollFace);
